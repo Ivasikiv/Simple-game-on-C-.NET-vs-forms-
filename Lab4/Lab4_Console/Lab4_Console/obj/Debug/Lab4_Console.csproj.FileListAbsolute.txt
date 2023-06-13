@@ -1,0 +1,8 @@
+D:\Jesus\MAPZ Labs\mapz\Lab4\Lab4_Console\Lab4_Console\bin\Debug\Lab4_Console.exe.config
+D:\Jesus\MAPZ Labs\mapz\Lab4\Lab4_Console\Lab4_Console\bin\Debug\Lab4_Console.exe
+D:\Jesus\MAPZ Labs\mapz\Lab4\Lab4_Console\Lab4_Console\bin\Debug\Lab4_Console.pdb
+D:\Jesus\MAPZ Labs\mapz\Lab4\Lab4_Console\Lab4_Console\obj\Debug\Lab4_Console.csproj.AssemblyReference.cache
+D:\Jesus\MAPZ Labs\mapz\Lab4\Lab4_Console\Lab4_Console\obj\Debug\Lab4_Console.csproj.SuggestedBindingRedirects.cache
+D:\Jesus\MAPZ Labs\mapz\Lab4\Lab4_Console\Lab4_Console\obj\Debug\Lab4_Console.csproj.CoreCompileInputs.cache
+D:\Jesus\MAPZ Labs\mapz\Lab4\Lab4_Console\Lab4_Console\obj\Debug\Lab4_Console.exe
+D:\Jesus\MAPZ Labs\mapz\Lab4\Lab4_Console\Lab4_Console\obj\Debug\Lab4_Console.pdb
